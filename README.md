@@ -1,5 +1,7 @@
 # Yume auth
 
+**Moved to [yumdotso/auth](https://github.com/yumedotso/auth)**
+
 Yume auth is the micro-service that handles the authorization, authentication and security-based requests of [Yume](https://yume.so).
 
 This is a micro-service to serve as an example of how to develop an scalable (architecture & tech) micro-service using python, flask and a combination oh _HTTP_ & _Event-based_ requets
