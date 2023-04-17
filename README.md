@@ -1,6 +1,6 @@
 # Yume auth
 
-**Moved to [yumdotso/auth](https://github.com/yumedotso/auth)**
+## 🚨 Archived repo, **Moved to [yumdotso/auth](https://github.com/yumedotso/auth)**
 
 Yume auth is the micro-service that handles the authorization, authentication and security-based requests of [Yume](https://yume.so).
 
